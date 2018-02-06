@@ -1,0 +1,2975 @@
+{
+  "took" : 19,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 167,
+    "max_score" : 1.0,
+    "hits" : [ {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "6",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Les Sheriff + Les Rats",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/les-sheriff-les-rats-billet/idmanif/391774",
+  "category" : [
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Concert",
+      "occurrences" : 1
+    },
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk",
+      "occurrences" : 3
+    }
+  ],
+  "performers" : [
+    {
+      "name": "Les Sheriff",
+      "uri": "http://fr.dbpedia.org/resource/Les_Sheriff"
+    },
+    {
+       "name": "LES RATS"
+    }
+  ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "8",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Les Sheriff + Les Rats",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/les-sheriff-les-rats-billet/idmanif/391774",
+  "category" : [
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Concert",
+      "occurrences" : 1
+    },
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk",
+      "occurrences" : 3
+    }
+  ],
+  "performers" : 
+    {
+      "name": "Les Sheriff",
+      "uri": "http://fr.dbpedia.org/resource/Les_Sheriff"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "10",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Messmer",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/messmer-billet/idmanif/394347",
+  "category" : [
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle",
+      "occurrences" : 2
+    },
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#ComedieMusicale",
+      "occurrences" : 1
+    }
+  ],
+  "performers" : 
+    {
+       "name": "MESSMER"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "2",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "FESTIVAL LA NUIT DE L'ERDRE",
+  "source": "http://www.francebillet.com/place-spectacle/manifestation/Pop-rock-Folk-FESTIVAL-LA-NUIT-DE-L-ERDRE-P--2-J--FER2.htm",
+  "category" : 
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Concert",
+      "occurrences" : 1
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "9",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Messmer",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/messmer-billet/idmanif/394347",
+  "category" : 
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle",
+      "occurrences" : 1
+    },
+  "performers" : 
+    {
+       "name": "MESSMER"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "1",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "LES INSUS - FESTIVAL LA NUIT DE L'EDRE",
+  "source": "http://www.pariseventicket.com/r6005-les-insus-festival-la-nuit-de-l-edre-",
+  "category" : [
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Concert",
+      "occurrences" : 1
+    },
+     {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Variete",
+      "occurrences" : 1
+    }
+  ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "3",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "LES ESCALES",
+  "source": "http://www.francebillet.com/place-spectacle/manifestation/Variete-internationale-FESTIVAL-LES-ESCALES---1J-DIMANCHE-ESC3.htm",
+  "category" : 
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Concert",
+      "occurrences" : 11
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "4",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "LES ESCALES",
+  "source": "http://www.francebillet.com/place-spectacle/manifestation/Variete-internationale-FESTIVAL-LES-ESCALES---2J-S-D-ESC4.htm",
+  "category" : 
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Concert",
+      "occurrences" : 11
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "5",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Les Escales",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/festival-les-escales-billet/idmanif/389578",
+  "category" : 
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse",
+      "occurrences" : 1
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "17",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "VINCENT NICLO",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/vincent-niclo-billet/idmanif/398228",
+  "category" : [
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+  ],
+  "performers" : 
+    {
+       "name": "Vincent Niclo",
+       "uri": "http://fr.dbpedia.org/resource/Vincent_Niclo"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "16",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "VINCENT NICLO",
+  "source": "hhttp://www.infoconcert.com/artiste/vincent-niclo-127652/concerts.html",
+  "category" : 
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Classique",
+      "occurrences" : 1
+    },
+  "performers" : 
+    {
+       "name": "Vincent Niclo",
+       "uri": "http://fr.dbpedia.org/resource/Vincent_Niclo"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "19",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "LA FOLLE HISTOIRE DE MICHEL MONTANA -LRB- OLDELAF / ALAIN BERTHIER",
+  "source": "http://www.infoconcert.com/artiste/la-folle-histoire-de-michel-montana-oldelaf--alain-berthier--111295/concerts.html",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    },
+  "performers" : 
+    {
+       "name": "ALAIN BERTHIER"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "12",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Anne Sila",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/anne-sila-billet/idmanif/391959",
+  "category" : 
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Concert",
+      "occurrences" : 1
+    },
+  "performers" : 
+    {
+       "name": "Anne Sila"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "18",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "VINCENT NICLO",
+  "source": "hhttp://www.infoconcert.com/artiste/vincent-niclo-127652/concerts.html",
+  "category" : [
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+  ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "13",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Michel Leeb",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/michel-leeb-40-ans-billet/idmanif/399162",
+  "category" : 
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Humour",
+      "occurrences" : 5
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "14",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Michel Leeb",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/michel-leeb-40-ans-billet/idmanif/399433",
+  "category" : 
+    {
+      "uri" : "http://www.owl-ontologies.com/categoriesEvt.owl#Humour",
+      "occurrences" : 4
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "15",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "VINCENT NICLO",
+  "source": "http://www.fnactickets.com/place-spectacle/manifestation/Theatre-contemporain-VINCENT-NICLO-VIN14.htm"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "11",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Anne Sila",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/anne-sila-billet/idmanif/391959"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "22",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Jean Marie Bigard `` nous Les Femmes",
+  "source" : "https://www.ticketmaster.fr/fr/manifestation/jean-marie-bigard-nous-les-femmes-billet/idmanif/374081",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    },
+  "performers" : 
+   [
+    {
+         "name": "Jean Val Jean",
+         "uri": "http://fr.dbpedia.org/resource/Jean_Val_Jean"
+    },
+    {
+       "name": "Marie BIGARD"
+    }
+   ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "25",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Jean Marie Bigard `` 10 villes 10 blagues",
+  "source" : "https://www.ticketmaster.fr/fr/manifestation/jean-marie-bigard-nous-les-femmes-billet/idmanif/345075",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    },
+  "performers" : 
+   [
+    {
+       "name": "Jean Marie BIGARD"
+    }
+   ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "23",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Jean Marie Bigard `` nous Les Femmes",
+  "source" : "https://www.ticketmaster.fr/fr/manifestation/jean-marie-bigard-nous-les-femmes-billet/idmanif/370078",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    },
+  "performers" : 
+   [
+    {
+       "name": "Jean Marie BIGARD"
+    }
+   ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "21",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Oldelaf & Alain Berthier dans La Folle Histoire de Michel Montana",
+   "category": {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+   },
+   "performers": {
+      "name": "ALAIN BERTHIER"
+   },
+  "source" : "http://www.billetreduc.com/178963/evt.htm"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "24",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Jean Marie Bigard `` nous Les Femmes",
+   "source": "https://www.ticketmaster.fr/fr/manifestation/jean-marie-bigard-nous-les-femmes-billet/idmanif/370178",
+   "category": {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "29",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Oldelaf & Alain Berthier dans La Folle Histoire de Michel Montana",
+   "category": {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+   },
+  "source" : "http://www.billetreduc.com/175963/evt.htm"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "26",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Jeff Mills Onl",
+  "source" : "http://www.infoconcert.com/ticket/concert-jeff-mills-onl---orchestre-national-de-lyon-lyon/952058.html",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "30",
+      "_score" : 1.0,
+      "_source":{
+  "name": "THE AVENER + THE SHOES",
+   "source": "http://www.pariseventicket.com/r6256-the-avener-the-shoes",
+   "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Danse"
+    }
+   ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "27",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Jeff Mills Onl",
+  "source" : "http://www.infoconcert.com/ticket/concert-jeff-mills-onl---orchestre-national-de-lyon-lyon/952057.html"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "37",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Chinese Man - Dèlgres",
+   "source": "http://www.francebillet.com/place-spectacle/manifestation/Pop-rock-Folk-18E-FESTIVAL-DU-BOUT-DU-MONDE---P2J-BOUT2.htm",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+    },
+     "performers" : 
+    {
+       "name": "Tristan Nihouarn"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "36",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Chinese Man",
+   "source": "https://billetterie.auchan.fr/fr/manifestation/chinese-man-billet/idmanif/375502",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+    },
+     "performers" : 
+    {
+       "name": "Tristan Nihouarn"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "35",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Laura Perrudin",
+   "source": "http://www.infoconcert.com/artiste/laura-perrudin-123622/concerts.html",
+   "category": 
+     {
+      "occurrences": 25,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+     "performers" : 
+    {
+      "name": "Laura Perrudin"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "33",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Petit Ours Brun",
+   "source": "https://billetterie.auchan.fr/fr/manifestation/petit-ours-brun-billet/idmanif/391884",
+   "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#ComedieMusicale"
+    }
+   ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "38",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Scorpions à Montélibard",
+   "source": "https://billetterie.auchan.fr/fr/manifestation/scorpions-billet/idmanif/396909",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "32",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Petit Ours Brun",
+   "source": "https://www.ticketmaster.fr/fr/manifestation/petit-ours-brun-billet/idmanif/391884",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Enfant"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "31",
+      "_score" : 1.0,
+      "_source":{
+  "name": "The Avener The Shoes",
+   "source": "http://www.infoconcert.com/ticket/concert-boulogne-billancourt/1018977.html",
+   "category": 
+     {
+      "occurrences": 19,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "39",
+      "_score" : 1.0,
+      "_source":{
+  "name": "SCORPIONS - MONTBELIARD",
+   "source": "http://www.pariseventicket.com/r6193-scorpions-montbeliard",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "45",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Celine Dion",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/celine-dion-billet/idmanif/395120",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    "performers" : 
+    {
+      "name": "Celine Dion"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "40",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Julien Dore",
+   "source": "http://www.infoconcert.com/ticket/concert-julien-dore-rennes/975572.html",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    "performers" : 
+    {
+      "name": "Julien Dore"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "43",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "FREDERIC FRANCOIS",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/frederic-francois-billet/idmanif/399619",
+  "category" : [
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    }
+  ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "47",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Celine Dion",
+  "source": "http://www.fnactickets.com/place-spectacle/manifestation/Variete-et-chanson-francaises-CELINE-DION-BXDIO.htm",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "44",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "FREDERIC JORON",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/frederic-francois-billet/idmanif/399619",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "46",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Celine Dion",
+  "source": "http://www.fnactickets.com/place-spectacle/manifestation/Variete-et-chanson-francaises-CELINE-DION-LIDIO.htm",
+    "performers" : 
+    {
+      "name": "Celine Dion"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "41",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Julien Dore",
+   "source": "http://www.infoconcert.com/ticket/concert-julien-dore-paris/983234.html",
+    "performers" : 
+    {
+      "name": "Julien Dore"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "42",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Laura Perrudin , Michel Benita",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/frederic-francois-billet/idmanif/399619"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "52",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Nawell Madani",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/nawell-madani-billet/idmanif/370285",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+     },
+     
+    "performers" : 
+    {
+      "name": "Nawell Madani",
+      "uri": "http://fr.dbpedia.org/resource/Nawell_Madani"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "50",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Pierre Perret",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/pierre-perret-billet/idmanif/399476",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse"
+     },
+     
+    "performers" : 
+    {
+      "name": "Pierre Perret"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "51",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "GUILLAUME PERRET",
+  "source": "http://www.infoconcert.com/artiste/guillaume-perret-127763/concerts.html",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#AutreMusique"
+     },
+     
+    "performers" : 
+    {
+      "name": "GUILLAUME PERRET"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "49",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "SIGUR ROS",
+  "source": "http://www.francebillet.com/sigur-ros",
+   "category": 
+    [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+     },
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+     }
+    ],
+    "performers" : 
+    {
+      "name": "SIGUR ROS"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "56",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "La Carene A Brest",
+  "source": "http://www.infoconcert.com/ticket/concert-fishbach-adrien-soleiman-brest/999093.html",
+   "category": 
+     {
+      "occurrences": 3,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+     }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "53",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Nawell Madani",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/nawell-madani-billet/idmanif/370285",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+     }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "48",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "SIGUR ROS",
+  "source": "http://www.pariseventicket.com/r6161-sigur-ros",
+   "category": 
+    [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+     },
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+     }
+    ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "54",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "ASAF AVIDAN",
+  "source": "http://www.pariseventicket.com/r6103-asaf-avidan-lyon-",
+   "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+     }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "55",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "ASAF AVIDAN",
+  "source": "http://www.pariseventicket.com/r6103-asaf-avidan-lyon-",
+    "performers" : 
+    {
+      "name": "Asaf Avidan",
+      "uri": "http://fr.dbpedia.org/resource/Asaf_Avidan"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "60",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "MANU CHAO LA VENTURA",
+  "source": "http://www.infoconcert.com/artiste/manu-chao-la-ventura-17559/concerts.html",
+ "category": 
+   {
+    "occurrences": 33,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+   },
+  "performers" : 
+  {
+    "name": "Manu Chao",
+    "uri": "http://fr.dbpedia.org/resource/Manu_Chao"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "62",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "MANU DIBANGO",
+  "source": "http://www.infoconcert.com/artiste/manu-dibango-768/concerts.html",
+ "category": 
+   {
+    "occurrences": 19,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+   },
+  "performers" : 
+  {
+    "name": "Manu Dibango",
+    "uri": "http://fr.dbpedia.org/resource/Manu_Dibango"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "57",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "La Carene A Brest",
+  "source": "http://www.infoconcert.com/salle/la-carene-a-brest-19203/concerts.html",
+ "category": 
+   {
+    "occurrences": 26,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+   },
+  "performers" : 
+  {
+    "name": "Adrien Soleiman"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "58",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "PIERRE BOUSSAGUET",
+  "source": "http://www.infoconcert.com/artiste/pierre-boussaguet-1795/concerts.html",
+ "category": 
+   {
+    "occurrences": 14,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+   },
+  "performers" : 
+  {
+    "name": "PIERRE BOUSSAGUET"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "59",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "PIERRE PERRET",
+  "source": "http://www.infoconcert.com/artiste/pierre-boussaguet-1795/concerts.html",
+ "category": 
+   {
+    "occurrences": 14,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+   },
+  "performers" : 
+  {
+    "name": "Pierre Perret"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "61",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Manu Chao La Ventura The Inspector Cluzo",
+  "source": "http://www.infoconcert.com/ticket/concert-manu-chao-la-ventura-the-inspector-cluzo-tic-saint-malo-du-bois/1015022.htm",
+ 
+  "performers" : 
+  {
+    "name": "Manu Chao",
+    "uri": "http://fr.dbpedia.org/resource/Manu_Chao"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "65",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Kamal Le Magicien",
+  "source": "http://www.billetreduc.com/168954/evt.htm",
+  "category": 
+   {
+    "occurrences": 13,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Magie"
+   },
+  "performers" : 
+  {
+    "name": "Kamel Le Magicien"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "63",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Le Magicien Kamel",
+  "source": "http://www.billetreduc.com/168954/evt.htm",
+ "category": 
+   {
+    "occurrences": 9,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Magie"
+   },
+  "performers" : 
+  {
+    "name": "Kamel Le Magicien"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "64",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Le Magicien Kamel",
+ 
+  "performers" : 
+  {
+    "name": "Kamel Le Magicien"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "66",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Claudia Tagbo",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/claudia-tagbo-billet/idmanif/397466",
+  "category": 
+   {
+    "occurrences": 4,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+   },
+  "performers" : 
+  {
+    "name": "Claudia Tagbo"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "73",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Olivier de Benoist dans 0 / 40 ans",
+  "source": "http://www.billetreduc.com/177063/evt.htm",
+  "category": 
+   {
+    "occurrences": 7,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+   },
+  "performers" : 
+  {
+    "name": "Olivier de Benoist"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "72",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Portaventura Park - 2 Jours",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/portaventura-park-2-jours-billet/idmanif/394369",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "71",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "PORTAVENTURA PARK",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/portaventura-park-2-jours-billet/idmanif/394369",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "67",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Claudia Tagbo",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/claudia-tagbo-billet/idmanif/397466",
+  "category": 
+   {
+    "occurrences": 4,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "70",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "MUSIC MAKER",
+  "source": "http://www.infoconcert.com/artiste/music-maker-48105/concerts.html",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#AutreMusique"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "69",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Music Mirror",
+  "source": "http://www.billetreduc.com/152768/evt.htm",
+  "category" : 
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Musique"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "68",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "MUSIC MIRROR",
+  "source": "http://www.fnactickets.com/place-spectacle/manifestation/Restauration-Repas-spectacle-MUSIC-MIRROR-TOMI2.htm"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "80",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Festival Main Square",
+  "source": "http://www.infoconcert.com/festival/main-square-3915/archives.html",
+  "category": 
+   {
+    "occurrences": 6,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse"
+   },
+  "performers" : [
+    {
+       "name": "Radiohead",
+       "uri": "http://fr.dbpedia.org/resource/Radiohead"
+    },
+    {
+       "name": "Major Lazer",
+       "uri": "http://fr.dbpedia.org/resource/Major_Lazer"
+    },
+    {
+       "name": "LAST TRAIN"
+    },
+    {
+       "name": "Ghinzu",
+       "uri": "http://fr.dbpedia.org/resource/Ghinzu"
+    },
+    {
+       "name": "Editors",
+       "uri": "http://fr.dbpedia.org/resource/Editors"
+    },
+    {
+       "name": "ODESZA"
+    },
+    {
+       "name": "TIGGS DA AUTHOR"
+    },
+    {
+       "name": "Mass Hysteria",
+       "uri": "http://fr.dbpedia.org/resource/Mass_Hysteria"
+    },
+    {
+       "name": "The Offspring",
+       "uri": "http://fr.dbpedia.org/resource/The_Offspring"
+    },
+    {
+       "name": "MACKLEMORE & RYAN LEWIS"
+    },
+    {
+       "name": "MARINA KAYE"
+    },
+    {
+       "name": "NATHANIEL RATELIFF"
+    },
+    {
+       "name": "LONELY THE BRAVE"
+    },
+    {
+       "name": "Louise Attaque",
+       "uri": "http://fr.dbpedia.org/resource/Louise_Attaque"
+    },
+    {
+       "name": "JEANNE ADDED"
+    },
+    {
+       "name": "Disclosure",
+       "uri": "http://fr.dbpedia.org/resource/Disclosure"
+    },
+    {
+       "name": "Ellie Goulding",
+       "uri": "http://fr.dbpedia.org/resource/Ellie_Goulding"
+    }  
+  ]
+  
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "81",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Superbus",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/superbus-billet/idmanif/378689",
+  "category": 
+   {
+    "occurrences": 1,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+   },
+  "performers" : 
+  {
+     "name": "Jennifer Ayache",
+     "uri": "http://fr.dbpedia.org/resource/Jennifer_Ayache"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "75",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Jean-marie Bigard",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/jean-marie-bigard-billet/idmanif/399615",
+  "category": 
+   {
+    "occurrences": 5,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+   },
+  "performers" : 
+  {
+    "name": "Jean-marie Bigard"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "74",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Olivier de Benoist dans 0 - 40 ans",
+  "source": "http://www.billetreduc.com/175268/evt.htm",
+  "category": 
+   {
+    "occurrences": 7,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+   },
+  "performers" : 
+  {
+    "name": "Olivier de Benoist"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "79",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "MAIN SQUARE FESTIVAL 2017",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/main-square-festival-2017-pass-1-jour-billet/idmanif/389192",
+  "category" : 
+    {
+      "occurrences": 10,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "77",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Cirque Du Soleil Varekai",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/cirque-du-soleil-varekai-billet/idmanif/372816",
+  "category" : 
+    {
+      "occurrences": 2,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Cirque"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "76",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Cirque Du Soleil Varekai",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/cirque-du-soleil-varekai-billet/idmanif/372816",
+  "category" : 
+    {
+      "occurrences": 2,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Cirque"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "78",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "VAREKAI (CIRQUE DU SOLEIL)",
+  "source": "http://www.infoconcert.com/artiste/varekai-cirque-du-soleil-136853/concerts.html",
+  "category" : 
+    {
+      "occurrences": 2,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Cirque"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "82",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Superbus",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/superbus-billet/idmanif/378689",
+  
+  "performers" : 
+  {
+     "name": "Jennifer Ayache",
+     "uri": "http://fr.dbpedia.org/resource/Jennifer_Ayache"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "84",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Hit Parade",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/hit-parade-billet/idmanif/37580",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    },
+     {
+      "occurrences": 2,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#ComedieMusicale"
+    }
+  ],
+  "performers" : 
+  {
+     "name": "Hit Parade"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "85",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Hit Parade",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/hit-parade-billet/idmanif/375798",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    },
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#ComedieMusicale"
+    }
+  ],
+  "performers" : 
+  {
+     "name": "Hit Parade"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "83",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Hit Parade",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/hit-parade-billet/idmanif/375798",
+  "category": 
+   {
+    "occurrences": 1,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#ComedieMusicale"
+   },
+  "performers" : 
+  {
+     "name": "Hit Parade"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "87",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Notre Dame De Paris",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/notre-dame-de-paris-billet/idmanif/399363",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    },
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#ComedieMusicale"
+    }
+  ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "89",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Soprano",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/soprano-billet/idmanif/395116",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+     
+  "performers" : 
+  {
+     "name": "Soprano"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "90",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Soprano",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/soprano-billet/idmanif/392964",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+     
+  "performers" : 
+  {
+     "name": "Soprano"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "86",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Notre Dame De Paris",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/notre-dame-de-paris-billet/idmanif/399363",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    },
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#ComedieMusicale"
+    }
+  ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "88",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Notre Dame De Paris",
+  "source": "http://www.infoconcert.com/ticket/concert-notre-dame-de-paris-dijon/926037.html"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "94",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "COLDPLAY 2 2017",
+  "source": "http://www.stadefrance.com/fr/billetterie/coldplay-2-2017",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+     
+  "performers" : 
+  {
+     "name": "Coldplay",
+     "uri": "http://fr.dbpedia.org/resource/Coldplay"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "95",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "COLDPLAY - BRUXELLES",
+  "source": "http://www.pariseventicket.com/r5908-coldplay-bruxelles",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+     
+  "performers" : 
+  {
+     "name": "Coldplay",
+     "uri": "http://fr.dbpedia.org/resource/Coldplay"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "96",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Grand Prix De France Moto 2017",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/grand-prix-de-france-moto-2017-billet/idmanif/386862",
+  "category": 
+     {
+      "occurrences": 16,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#SportMecanique"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "97",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Grand Prix De France Moto 2017",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/grand-prix-de-france-moto-2017-billet/idmanif/386862",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Sport"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "99",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Les Vieilles Canailles",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/les-vieilles-canailles-billet/idmanif/394087",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "92",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Foire De Paris",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/foire-de-paris-billet/idmanif/391928",
+  "category": 
+     {
+      "occurrences": 2,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Exposition"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "91",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Foire De Paris",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/foire-de-paris-billet/idmanif/391928",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Exposition"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "93",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "COLDPLAY 2017",
+  "source": "http://www.stadefrance.com/fr/billetterie/coldplay-2017",
+  "category": 
+     {
+      "occurrences": 3,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "108",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Olympique Lyonnais / As Monaco",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/olympique-lyonnais-as-monaco-billet/idmanif/397683",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Football"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "104",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "AHMED SYLLA",
+  "source": "http://www.fnactickets.com/place-spectacle/manifestation/One-man-woman-show-AHMED-SYLLA-LAHME.htm",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "102",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "REGGAE TOWN",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/rouen-reggae-town-billet/idmanif/389704",
+  "category": 
+     {
+      "occurrences": 2,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#AutreMusique"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "107",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "FRANCE / ANGLETERRE",
+  "source": "https://www.ticketmaster.fr/en/manifestation/france-suisse-billet/idmanif/395649",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Sport"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "100",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Les Vieilles Canailles",
+  "source": "http://www.infoconcert.com/ticket/concert-les-vieilles-canailles-cournon/992493.html",
+  "category": 
+     {
+      "occurrences": 5,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "106",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "FRA / SUI",
+  "source": "https://www.ticketmaster.fr/en/manifestation/france-suisse-billet/idmanif/395649",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Sport"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "105",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "FRANCE / SUISSE",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/france-suisse-billet/idmanif/395647",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Sport"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "103",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "AHMED SYLLA STARS 80",
+  "source": "http://www.infoconcert.com/ville/valenciennes-3037/concerts.html",
+  "category": 
+     {
+      "occurrences": 8,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "112",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "GUILLAUME PERRET",
+  "source": "http://www.infoconcert.com/artiste/guillaume-perret-127763/concerts.html",
+  "category": 
+     {
+      "occurrences": 2,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#AutreMusique"
+    },
+     
+  "performers" : 
+  [ 
+    {
+       "name": "Guillaume Perret",
+       "uri": "http://fr.dbpedia.org/resource/Guillaume_Perret"
+    },
+    {
+       "name": "FRANCOIS LINDEMANN"
+    },
+    {
+       "name": "HEIRI KANZIG"
+    }
+  ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "113",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Guillaume Perret Solo",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/guillaume-perret-solo-billet/idmanif/399190",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+    }
+    ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "110",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "LES MUSICIENS DU LOUVRE",
+  "source": "http://www.infoconcert.com/artiste/les-musiciens-du-louvre-46029/concerts.html",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Classique"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "114",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Kids United",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/kids-united-billet/idmanif/391071",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "115",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Kids United",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/kids-united-billet/idmanif/395380",
+  "category": 
+     {
+      "occurrences": 3,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "117",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Kids United La Troupe Du Jamel Comedy Club",
+  "source": "http://www.infoconcert.com/ticket/concert-kids-united-stars-80---10-ans-deja--la-troupe-du-jamel-comedy-club-sion/998592.html",
+  "performers" : 
+  {
+    "name": "KIDS UNITED"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "109",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "OLYMPIQUE LYONNAIS / AS MONACO",
+  "source": "http://www.owl-ontologies.com/categoriesEvt.owl#Sport",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Sport"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "111",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "MUSEE DU LOUVRE",
+  "source": "http://www.francebillet.com/place-spectacle/manifestation/Musee-MUSEE-DU-LOUVRE-LOUVR.htm"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "116",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Kids United",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/kids-united-billet/idmanif/395214"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "126",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "ISSA DOUMBIA ISSA DOUMBIA 1ERE CONSULTATION",
+  "source": "http://www.francebillet.com/place-spectacle/manifestation/One-man-woman-show-ISSA-DOUMBIA-ALISS.htm",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    },
+     
+  "performers" : 
+    {
+       "name": "Issa Doumbia",
+       "uri": "http://fr.dbpedia.org/resource/Issa_Doumbia"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "125",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Issa Doumbia dans Première consultation",
+  "source": "http://www.billetreduc.com/163881/evt.htm",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    },
+     
+  "performers" : 
+    {
+       "name": "Issa Doumbia",
+       "uri": "http://fr.dbpedia.org/resource/Issa_Doumbia"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "121",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Bruno Mars",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/bruno-mars-billet/idmanif/389707",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    }
+    ],
+     
+  "performers" : 
+    {
+       "name": "Bruno Mars"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "119",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "BRUNO MARS",
+  "source": "hhttp://www.fnactickets.com/place-spectacle/manifestation/Pop-rock-Folk-BRUNO-MARS-BMARS.htm",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+    }
+    ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "118",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Bruno Mars",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/bruno-mars-billet/idmanif/389707",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    }
+    ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "120",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "BRUNO MARS - LILLE",
+  "source": "http://www.pariseventicket.com/r5975-bruno-mars-lille-",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+    }
+    ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "124",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Issa Doumbia dans Première consultation",
+  "source": "http://www.billetreduc.com/164600/evt.htm",
+  "category": 
+     {
+      "occurrences": 10,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "123",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Le Criquet Russe - Les Vedettes",
+  "source": "http://www.billetreduc.com/177434/evt.htm",
+  "category": 
+     {
+      "occurrences": 4,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "122",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Le criquet russe",
+  "source": "http://www.billetreduc.com/167526/evt.htm",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "130",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Herbie Hancock",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/herbie-hancock-billet/idmanif/399184",
+  "category":[
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalMusique"
+    },
+    {
+      
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse"
+    }
+  ],
+  "performers" : 
+  {
+     "name": "Herbie Hancock",
+     "uri": "http://fr.dbpedia.org/resource/Herbie_Hancock"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "131",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Herbie Hancock",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/herbie-hancock-billet/idmanif/399184",
+  "category":[
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse"
+    }
+  ],
+  "performers" : 
+  {
+     "name": "Herbie Hancock",
+     "uri": "http://fr.dbpedia.org/resource/Herbie_Hancock"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "132",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Mathieu Madenian",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/mathieu-madenian-billet/idmanif/374147",
+  "category":[
+     {
+      "occurrences": 2,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Theatre"
+    },
+    {
+      
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    }
+  ],
+  "performers" : 
+  {
+     "name": "MATHIEU MADENIAN"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "133",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Mathieu Madenian",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/mathieu-madenian-billet/idmanif/374147",
+  "category":[
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Theatre"
+    },
+    {
+      
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    }
+  ],
+  "performers" : 
+  {
+     "name": "MATHIEU MADENIAN"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "127",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Terminal Sound",
+  "source": "https://www.ticketmaster.fr/fr/artiste/terminal-sound/idartiste/3627",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#AutreMusique"
+    },
+     
+  "performers" : 
+    {
+       "name": "Terminal Sound"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "128",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "TERMINAL SOUND",
+  "source": "http://www.infoconcert.com/artiste/terminal-sound-105957/concerts.html",
+  "performers" : 
+  {
+    "name": "TERMINAL SOUND"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "143",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "FLORENT PAGNY - NANTES",
+  "source": "http://www.pariseventicket.com/r5970-florent-pagny-nantes-",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    }
+  ],
+  "performers" : 
+  {
+     "name": "Florent Pagny",
+     "uri": "http://fr.dbpedia.org/resource/Florent_Pagny"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "142",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "FLORENT PAGNY - LILLE",
+  "source": "http://www.pariseventicket.com/r5973-florent-pagny-lille-",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    }
+  ],
+  "performers" : 
+  {
+     "name": "Florent Pagny",
+     "uri": "http://fr.dbpedia.org/resource/Florent_Pagny"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "141",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "FLORENT PAGNY - DIJON",
+  "source": "http://www.pariseventicket.com/r5973-florent-pagny-dijon-",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    }
+  ],
+  "performers" : 
+  {
+     "name": "Florent Pagny",
+     "uri": "http://fr.dbpedia.org/resource/Florent_Pagny"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "136",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "SUPERCROSS DE PARIS",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/supercross-de-paris-billet/idmanif/398527",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Sport"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "138",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Laurent Gerra",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/laurent-gerra-billet/idmanif/398615",
+  "category": 
+     {
+      "occurrences": 5,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Spectacle"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "139",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Laurent Gerra",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/laurent-gerra-billet/idmanif/398639",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "140",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Laurent Gerra",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/laurent-gerra-billet/idmanif/398576",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "7",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Les Sheriff + Les Rats",
+  "source": "http://www.infoconcert.com/artiste/les-rats-155446/concerts.html",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+    },
+  "performers": [
+      {
+         "name": "Les Sheriff",
+         "uri": "http://fr.dbpedia.org/resource/Les_Sheriff"
+      },
+      {
+         "name": "LES RATS"
+      }
+    ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "129",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Tryo Georgio Terminal Sound",
+               "source": "http://www.infoconcert.com/ticket/concert-tryo-georgio-terminal-sound-rouen/990282.html",
+               "category": {
+                  "occurrences": 1,
+                  "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+               },
+               "performers": [
+                  {
+                     "name": "Terminal Sound"
+                  },
+                  {
+                     "name": "TRYO GEORGIO"
+                  }
+               ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "144",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "CHRISTOPHE MAE - NIMES",
+  "source": "http://www.pariseventicket.com/r5970-florent-pagny-nantes-",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    }
+  ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "145",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "CHRISTOPHE MAE ",
+  "source": "http://www.pariseventicket.com/r6013-christophe-mae-dome-de-paris-",
+  "category": [
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    },
+    {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Variete"
+    }
+  ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "148",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Superbus",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/superbus-billet/idmanif/378689",
+  "performers": 
+      {
+         "name": "Jennifer Ayache",
+         "uri": "http://fr.dbpedia.org/resource/Jennifer_Ayache"
+      }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "147",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Superbus",
+  "source": "http://www.pariseventicket.com/r6013-Superbus",
+  "category": 
+     {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+    }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "34",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Laura Perrudin , Michel Benita",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/laura-perrudin-michel-benita-billet/idmanif/395280",
+  "performers" : 
+  {
+    "name": "Laura Perrudin"
+  }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "146",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Christophe Mae",
+  "source": "https://billetterie.auchan.fr/fr/manifestation/christophe-mae-billet/idmanif/389564"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "150",
+      "_score" : 1.0,
+      "_source":{
+   "name": "Claudio Capeo Gerald De Palmas The Avener Peter Peter Tim Dup Kid Noize Rive",
+   "source": "http://www.infoconcert.com/ticket/concert-the-avener-claudio-capeo-gerald-de-palmas-peter-peter-tim-dup-kid-noize-rive-spa/1007316.html",
+   "category": {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "151",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Claudio Capeo Gerald De Palmas The Avener Peter Peter Tim Dup Kid Noize Rive",
+  "source": "http://www.infoconcert.com/ticket/concert-spa/1007316.html",
+  "performers" : 
+ [
+   {
+       "name": "Claudio Capeo Gerald"
+    },
+    {
+       "name": "GERALD DE PALMAS"
+    },
+    {
+       "name": "The Avener",
+       "uri": "http://fr.dbpedia.org/resource/The_Avener"
+    },
+    {
+       "name": "Peter Peter",
+       "uri": "http://fr.dbpedia.org/resource/Peter_Peter"
+    },
+    {
+       "name": "KID NOIZE"
+    }
+ ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "153",
+      "_score" : 1.0,
+      "_source":{
+   "name": "Soiree Sciences Frictions",
+   "source": "https://billetterie.auchan.fr/fr/manifestation/soiree-sciences-frictions-billet/idmanif/399395",
+   "category": {
+      "occurrences": 3,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Exposition"
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "155",
+      "_score" : 1.0,
+      "_source":{
+  "name": "PETER PAN",
+   "source": "http://www.fnactickets.com/place-spectacle/manifestation/Danse-classique-PETER-PAN---LE-BALLET-PCPET.htm",
+   "category": {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Danse"
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "137",
+      "_score" : 1.0,
+      "_source":{
+               "name": "SUPERCROSS - PARIS",
+               "source": "https://billetterie.auchan.fr/fr/manifestation/supercross-de-paris-billet/idmanif/398527",
+               "category": {
+                  "occurrences": 1,
+                  "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Sport"
+               }
+            }
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "156",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Peter Pan",
+  "source": "http://www.billetreduc.com/157979/evt.htm",
+  "performers" : 
+ {
+   "name": "Peter Pan Disney",
+   "uri": "http://fr.dbpedia.org/resource/Peter_Pan_Disney"
+ }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "152",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Soiree Sciences Frictions",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/soiree-sciences-frictions-billet/idmanif/399395",
+  "performers" : 
+ [
+   {
+       "name": "Zaltan"
+    },
+    {
+       "name": "Epsilove"
+    },
+    {
+       "name": "DJ sets"
+    }
+ ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "154",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "Soiree Sciences Frictions",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/soiree-sciences-frictions-billet/idmanif/399395",
+  "performers" : 
+ [
+   {
+       "name": "Zaltan"
+    },
+    {
+       "name": "Epsilove - DJ sets"
+    }
+ ]
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "149",
+      "_score" : 1.0,
+      "_source":{
+  "name" : "La Nuit De L'erdre - Nort",
+  "source": "http://www.infoconcert.com/festival/la-nuit-de-lerdre-2721/concerts.html"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "157",
+      "_score" : 1.0,
+      "_source":{
+  "name": "PETER PAN",
+   "source": "http://www.fnactickets.com/place-spectacle/manifestation/Danse-classique-PETER-PAN---LE-BALLET-PCPET.htm",
+   "category": {
+      "occurrences": 1,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Danse"
+   },
+   "performers" : 
+ {
+   "name": "Peter Pan Disney",
+   "uri": "http://fr.dbpedia.org/resource/Peter_Pan_Disney"
+ }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "160",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Vianney",
+   "source": "https://billetterie.auchan.fr/fr/manifestation/vianney-billet/idmanif/392125",
+   "category": {
+      "occurrences": 3,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#FestivalDanse"
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "165",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Le journal de Brigitte Jaune",
+   "source": "http://www.billetreduc.com/176480/evt.htm",
+   "category": {
+      "occurrences": 2,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "158",
+      "_score" : 1.0,
+      "_source":{
+  "name": "THE KILLS",
+   "source": "http://www.infoconcert.com/artiste/the-kills-26183/concerts.html",
+   "category": {
+      "occurrences": 19,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Concert"
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "161",
+      "_score" : 1.0,
+      "_source":{
+ "name": "Vianney",
+   "source": "https://billetterie.auchan.fr/fr/manifestation/vianney-claudio-capeo-tete-billet/idmanif/394381",
+  "performers" : 
+ {
+   "name": "Vianney"
+ }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "159",
+      "_score" : 1.0,
+      "_source":{
+ "name": "THE KILLS",
+   "source": "http://www.infoconcert.com/artiste/the-kills-26183/concerts.html",
+  "performers" : 
+ {
+   "name": "The Kills"
+ }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "163",
+      "_score" : 1.0,
+      "_source":{
+  "name": "PETER PAN",
+   "source": "http://www.fnactickets.com/place-spectacle/manifestation/Danse-classique-PETER-PAN---LE-BALLET-PCPET.htm"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "162",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Vianney",
+   "source": "https://billetterie.auchan.fr/fr/manifestation/vianney-billet/idmanif/392125"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "135",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Youn Sun Nah Joshua Redman",
+               "source": "http://www.infoconcert.com/ticket/concert-youn-sun-nah-joshua-redman-marciac/1014783.html",
+               "category": [
+                  {
+                     "occurrences": 1,
+                     "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#AutreMusique"
+                  },
+                  {
+                     "occurrences": 1,
+                     "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+                  }
+               ],
+               "performers": {
+                  "name": "Joshua Redman",
+                  "uri": "http://fr.dbpedia.org/resource/Joshua_Redman"
+               }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "134",
+      "_score" : 1.0,
+      "_source":{
+  "name": "JOSHUA REDMAN",
+               "source": "http://www.infoconcert.com/artiste/joshua-redman-11142/concerts.html",
+   "category": [
+      {
+         "occurrences": 1,
+         "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#AutreMusique"
+      },
+      {
+         "occurrences": 1,
+         "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#Humour"
+      }
+   ],
+   "performers": {
+      "name": "Joshua Redman",
+      "uri": "http://fr.dbpedia.org/resource/Joshua_Redman"
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "168",
+      "_score" : 1.0,
+      "_source":{
+  "name": "REGGAE SESSION",
+  "source": "http://www.fnacspectacles.com/place-spectacle/manifestation/Reggae-REGGAE-SESSION-FESTIVAL--2-HXVOI.htm#/calendrier/",
+  "category": {
+    "occurrences": 2,
+    "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#AutreMusique"
+  },
+  "performers" : 
+ {
+   "name": "Pierre Nesta"
+ }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "98",
+      "_score" : 1.0,
+      "_source":{
+  "name": "GRAND PRIX DE FRANCE MOTO",
+               "source": "http://www.francebillet.com/place-spectacle/manifestation/Sport-mecanique-GRAND-PRIX-DE-FRANCE-MOTO-MOGP7.htm",
+   "category": {
+      "occurrences": 17,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#SportMecanique"
+     
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "166",
+      "_score" : 1.0,
+      "_source":{
+  "name": "F1 GRAND PRIX DE FRANCE",
+               "source": "https://www.ticketmaster.fr/fr/manifestation/f1-grand-prix-france-2017-billet/idmanif/395503",
+   "category": {
+      "occurrences": 3,
+      "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#SportMecanique"
+     
+   }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "164",
+      "_score" : 1.0,
+      "_source":{
+ "name": "Claudio Capeo Gerald De Palmas The Avener Peter Peter Tim Dup Kid Noize Rive",
+   "source": "ttp://www.infoconcert.com/ticket/concert-the-avener-claudio-capeo-gerald-de-palmas-peter-peter-tim-dup-kid-noize-rive-spa/1007316.html",
+  "performers" : 
+ {
+   "name": "Claudio Capeo "
+ }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "169",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Foire De Pau",
+  "source": "http://www.infoconcert.com/festival/foire-de-pau-2982/concerts.html",
+  "performers" : 
+ {
+   "name": "Philippe CALVO"
+ }
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "167",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Grand Prix De France Moto 2017",
+  "source": "https://www.ticketmaster.fr/fr/manifestation/grand-prix-de-france-moto-2017-billet/idmanif/386862"
+}
+
+    }, {
+      "_index" : "events_similarity",
+      "_type" : "event",
+      "_id" : "101",
+      "_score" : 1.0,
+      "_source":{
+  "name": "Blues Ray",
+               "source": "http://www.billetreduc.com/166332/evt.htm",
+               "category": {
+                  "occurrences": 1,
+                  "uri": "http://www.owl-ontologies.com/categoriesEvt.owl#PopRockElectroFolk"
+               }
+}
+
+    } ]
+  }
+}
